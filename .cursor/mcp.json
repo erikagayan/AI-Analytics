@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "sales-analyst": {
+            "command": "uv",
+            "args": [
+                "run",
+                "--directory",
+                "/Users/erikagayan/Python Projects/AI-Analytics",
+                "python",
+                "server.py"
+            ]
+        }
+    }
+}
